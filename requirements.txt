@@ -13,3 +13,4 @@ spacy
 pynlpir
 ckiptagger
 opencc-python-reimplemented
+translate-toolkit
