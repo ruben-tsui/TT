@@ -15,3 +15,4 @@ ckiptagger
 opencc-python-reimplemented
 translate-toolkit
 aeidon
+opustools-pkg
