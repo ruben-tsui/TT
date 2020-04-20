@@ -18,5 +18,5 @@ translate-toolkit
 aeidon
 opustools-pkg
 stanza
-https://nlp.csie.org/~rubentsui/files/ckipnn_data.whl
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.5/en_core_web_md-2.2.5.tar.gz
+https://nlp.csie.org/~rubentsui/files/ckipnn-1.0.0-py3-none-any.whl
