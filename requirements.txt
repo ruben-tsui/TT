@@ -11,10 +11,12 @@ lxml
 nltk
 spacy
 pynlpir
+tensorflow==1.15.2
 ckiptagger
 opencc-python-reimplemented
 translate-toolkit
 aeidon
 opustools-pkg
 stanza
-en_core_web_md
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.5/en_core_web_md-2.2.5.tar.gz
+http://nlp.csie.org/~rubentsui/files/data.zip
