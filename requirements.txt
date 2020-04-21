@@ -19,4 +19,5 @@ aeidon
 opustools-pkg
 stanza
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.5/en_core_web_md-2.2.5.tar.gz
-http://nlp.csie.org/~rubentsui/files/ckipnn-1.0.5-py3-none-any.whl
+#http://nlp.csie.org/~rubentsui/files/ckipnn-1.0.5-py3-none-any.whl
+http://nlp.csie.org/~rubentsui/files/milksets-0.2-py2.py3-none-any.whl
